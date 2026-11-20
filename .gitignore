@@ -1,0 +1,10 @@
+# Godot 导入缓存（自动生成，删除后自动重建）
+game/.godot/
+
+# Blender 脚本的临时产物
+blender/done.marker
+blender/preview.png
+
+# 系统杂项
+*.tmp
+.DS_Store
